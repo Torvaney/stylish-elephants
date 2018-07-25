@@ -366,7 +366,7 @@ px =
     Internal.Px
 
 
-{-| Shrink an element to fit it's contents.
+{-| Shrink an element to fit its contents.
 -}
 shrink : Length
 shrink =
